@@ -3,7 +3,7 @@
 </script>
 
 <script>
-  import { afterUpdate, setContext, onDestroy, onMount, tick } from 'svelte';
+  import { afterUpdate, setContext, onDestroy, onMount } from 'svelte';
   import { writable } from 'svelte/store';
 
   export let selectedTabIndex = 0;
