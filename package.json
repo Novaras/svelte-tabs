@@ -28,14 +28,15 @@
   "license": "MIT",
   "contributors": [
     "Rich Harris",
-    "Joe Attardi <jattardi@gmail.com> (https://joeattardi.codes)"
+    "Joe Attardi <jattardi@gmail.com> (https://joeattardi.codes)",
+    "Novaras <tfear091@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/joeattardi/svelte-tabs.git"
+    "url": "https://github.com/Novaras/svelte-tabs.git"
   },
   "bugs": {
-    "url": "https://github.com/joeattardi/svelte-tabs/issues"
+    "url": "https://github.com/Novaras/svelte-tabs/issues"
   },
   "files": [
     "dist",
