@@ -70,6 +70,8 @@ To do a single run of the tests, run `npm test`. To run the tests in watch mode,
 ## Credits
 
 Derived from the code at [https://svelte.dev/repl/8e68120858e5322272dc9136c4bb79cc?version=3.7.0](https://svelte.dev/repl/8e68120858e5322272dc9136c4bb79cc?version=3.7.0) by Rich Harris
+Mainly authored by [Joe Attardi](https://joeattardi.codes)([GitHub](https://github.com/joeattardi))
+Final tweaks by [Novaras](https://github.com/Novaras)
 
 ## Limitations
 
